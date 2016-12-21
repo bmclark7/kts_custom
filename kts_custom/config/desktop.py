@@ -10,5 +10,12 @@ def get_data():
 			"icon": "octicon octicon-file-directory",
 			"type": "module",
 			"label": _("KTS Custom")
+		},
+		{
+			"module_name": "Service Calls",
+			"color": "orange",
+			"icon": "octicon octicon-file-directory",
+			"type": "module",
+			"label": _("Service Calls")
 		}
 	]

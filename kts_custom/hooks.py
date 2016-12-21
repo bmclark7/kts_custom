@@ -25,26 +25,26 @@ source_link = "https://github.com/bmclark7/kts_custom.git"
 # update_website_context = "erpnext.shopping_cart.utils.update_website_context"
 # my_account_context = "erpnext.shopping_cart.utils.update_my_account_context"
 
-email_append_to = ["Service Call"]
+# email_append_to = ["Service Call"]
 
-calendars = ["Service Call"]
+# calendars = ["Service Call"]
 
 # fixtures = ["Web Form"]
 
-website_generators = ["Service Call"]
+# website_generators = ["Service Call"]
 
 # website_context = {
 #	"favicon": 	"/assets/erpnext/images/favicon.png",
 #	"splash_image": "/assets/erpnext/images/splash.png"
 # }
 
-website_route_rules = [
-	{"from_route": "/service_call", "to_route": "Service Call"},
-]
+# website_route_rules = [
+#	{"from_route": "/service_call", "to_route": "Service Call"},
+# ]
 
-portal_menu_items = [
-	{"title": _("Service Calls"), "route": "/service_call", "reference_doctype": "Service Call"},
-]
+# portal_menu_items = [
+#	{"title": _("Service Calls"), "route": "/service_call", "reference_doctype": "Service Call"},
+# ]
 
 # default_roles = [
 #	{'role': 'Customer', 'doctype':'Contact', 'email_field': 'email_id',

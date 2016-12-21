@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include kts_custom *.css
+recursive-include kts_custom *.csv
+recursive-include kts_custom *.html
+recursive-include kts_custom *.ico
+recursive-include kts_custom *.js
+recursive-include kts_custom *.json
+recursive-include kts_custom *.md
+recursive-include kts_custom *.png
+recursive-include kts_custom *.py
+recursive-include kts_custom *.svg
+recursive-include kts_custom *.txt
+recursive-exclude kts_custom *.pyc

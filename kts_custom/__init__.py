@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 import frappe
-import erpnext
 
 __version__ = '1.0.1'
 

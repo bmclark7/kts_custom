@@ -2,10 +2,10 @@
 Configuration for docs
 """
 
-# source_link = "https://github.com/bmclark7/kts_custom"
+# source_link = "https://github.com/[org_name]/kts_custom"
 # docs_base_url = "https://[org_name].github.io/kts_custom"
 # headline = "App that does everything"
 # sub_heading = "Yes, you got that right the first time, everything"
 
-# def get_context(context):
-#	context.brand_html = "KTS Custom"
+def get_context(context):
+	context.brand_html = "KTS Custom"

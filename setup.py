@@ -15,7 +15,7 @@ requirements = parse_requirements("requirements.txt", session="")
 setup(
 	name='kts_custom',
 	version=version,
-	description='Custom modifications made for Kustom Technology Solutions LLC',
+	description='Custom changes made to erpnext for Kustom Technology Solutions LLC',
 	author='KTS',
 	author_email='servadmin@kustomtech.net',
 	packages=find_packages(),

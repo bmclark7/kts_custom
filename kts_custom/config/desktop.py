@@ -5,10 +5,10 @@ from frappe import _
 def get_data():
 	return [
 		{
-			"module_name": "Service Calls",
+			"module_name": "KTS Custom",
 			"color": "grey",
 			"icon": "octicon octicon-file-directory",
 			"type": "module",
-			"label": _("Service Calls")
+			"label": _("KTS Custom")
 		}
 	]
